@@ -1,1 +1,1 @@
-export * from './dropdown-table/component'
+export * from './ngx-camera-image/component'

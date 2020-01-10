@@ -1,13 +1,13 @@
 {
-  "name": "ngx-dropdown-table",
-  "version": "1.0.0",
-  "description": "angular 下拉 Table 组件",
+  "name": "ngx-camera-image",
+  "version": "1.0.1",
+  "description": "angular 获取摄像头拍照组件",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "下拉 Table 组件",
+    "获取摄像头拍照组件",
     "angular",
     "ng-zerro-antd"
   ],
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fengyinchao/ngx-dropdown-table.git"
+    "url": "https://github.com/fengyinchao/ngx-camera-image.git"
   }
 }
