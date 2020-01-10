@@ -29,6 +29,6 @@ import { CameraImageComponent } from 'ngx-camera-image';
 
 ### API
 
-- 输出事件
+- 输出事件 img
 
-img 输出图片的 base64 字符串
+输出图片的 base64 字符串
